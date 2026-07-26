@@ -1,9 +1,27 @@
 aid: element-zero
 name: Element Zero
-description: 'Element Zero is a company surfaced as a portfolio company of playground-global and added
-  to the API Evangelist network as a stub for enrichment. Sector: energy-transition. This profile is a
-  lead awaiting the enrichment pipeline.'
+description: 'Element Zero is a green-materials technology company decarbonizing the production of iron
+  and other critical metals. Its patented non-aqueous electrochemical process converts any grade of metal
+  ore (iron, nickel, titanium, lithium) into high-purity metal with zero carbon emissions, using 30-40%
+  less energy than conventional smelting and operating at low temperatures so it can run on intermittent
+  renewable energy (wind, solar, hydro). Based in Perth and northern Western Australia near the world''s
+  largest iron-ore ports, the company is scaling a modular platform aimed at the roughly 8% of global CO2
+  emissions from iron and steelmaking, including its Pilbara Iron Super Hub at Port Hedland. Backed by a
+  US$10M seed round led by Playground Global. This is an industrial deep-tech company with no public API
+  or developer platform; the profile carries identity and domain-security signals only.'
 url: https://raw.githubusercontent.com/api-evangelist/element-zero/refs/heads/main/apis.yml
+accessModel:
+  pricing: unknown
+  onboarding: unknown
+  trial: false
+  try_now: false
+  public: false
+  label: Unknown
+  confidence: low
+  source: []
+  generated: '2026-07-22'
+  method: derived
+image: https://elementzero.green/wp-content/uploads/logo-element-zero-horizontal-black.svg
 x-type: company
 x-source: vc-portfolio
 x-backed-by:
@@ -12,10 +30,16 @@ x-tier: stub
 x-tier-reason: portfolio-lead
 specificationVersion: '0.20'
 created: '2026-07-17'
-modified: '2026-07-17'
+modified: '2026-07-19'
 tags:
 - Company
 - Energy Transition
+- Green Metals
+- Decarbonization
+- Industrial Technology
+- Clean Energy
+- Deep Tech
+- Mining
 apis: []
 maintainers:
 - FN: Kin Lane
@@ -23,5 +47,18 @@ maintainers:
 - FN: APIs.json
   email: info@apis.io
 common:
+- type: DomainSecurity
+  url: security/element-zero-domain-security.yml
 - type: Website
   url: https://elementzero.green/
+- type: Blog
+  url: https://elementzero.green/news/
+- type: Support
+  url: https://elementzero.green/contact-us/
+- type: LinkedIn
+  url: https://www.linkedin.com/company/elementzerogreen/
+x-enrichment:
+  date: '2026-07-19'
+  status: backfilled
+  pass: local-v1
+  note: backfilled from .gitignore signal + verified work evidence
