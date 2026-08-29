@@ -10,6 +10,17 @@ description: 'Element Zero is a green-materials technology company decarbonizing
   US$10M seed round led by Playground Global. This is an industrial deep-tech company with no public API
   or developer platform; the profile carries identity and domain-security signals only.'
 url: https://raw.githubusercontent.com/api-evangelist/element-zero/refs/heads/main/apis.yml
+deliveryModel:
+  model: unknown
+  open_source: false
+  commercial: false
+  callable_host: false
+  label: Delivery model not determined — needs a product licence on record
+  confidence: low
+  source:
+  - none
+  generated: '2026-08-28'
+  method: derived
 accessModel:
   pricing: unknown
   onboarding: unknown
