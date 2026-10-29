@@ -64,6 +64,81 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-Element Zero is a company surfaced as a portfolio company of playground-global and added to the API Evangelist network as a stub for enrichment. Sector: energy-transition. This profile is a lead awaiting the enrichment pipeline.
+Element Zero is a green-materials technology company decarbonizing the production of iron and other critical metals. Its patented non-aqueous electrochemical process converts any grade of metal ore (iron, nickel, titanium, lithium) into high-purity metal with zero carbon emissions, using 30-40% less energy than conventional smelting and operating at low temperatures so it can run on intermittent renewable energy (wind, solar, hydro). Based in Perth and northern Western Australia near the world's largest iron-ore ports, the company is scaling a modular platform aimed at the roughly 8% of global CO2 emissions from iron and steelmaking, including its Pilbara Iron Super Hub at Port Hedland. Backed by a US$10M seed round led by Playground Global. This is an industrial deep-tech company with no public API or developer platform; the profile carries identity and domain-security signals only.
 
-Backed by: playground-global — https://elementzero.green/
+**Areas:** Company · Energy Transition · Green Metals · Decarbonization · Industrial Technology · Clean Energy · Deep Tech · Mining
+
+## Element Zero on APIs.io
+
+Everything profiled for Element Zero is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/element-zero/](https://apis.io/providers/element-zero/)** — or go straight to one of the APIs or properties below.
+
+### Published properties
+
+Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
+
+#### Security (1)
+
+Authentication, trust centre, and vulnerability disclosure.
+
+- [Element Zero Domain Security](https://apis.io/security/element-zero/element-zero-domain-security/)
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://elementzero.green/)
+- [Support](https://elementzero.green/contact-us/)
+- [Blog](https://elementzero.green/news/)
+
+## API Evangelist rating
+
+**Kin Score 5.0** — minimal · rubric 0.24.0 · scored 2026-10-17
+
+| Facet | Score |
+|---|---|
+| Discoverability | 48.2 |
+| Contract quality | 0.0 |
+| Contract governance | 0.0 |
+| Operational transparency | 0.0 |
+| Developer ergonomics | 7.1 |
+| Access clarity | 0.0 |
+
+**Agent readiness 0.0** — human-only
+
+| Agent-readiness dimension | Result |
+|---|---|
+| Spec Presence | — |
+| Agentic Access | — |
+| Reversibility Documented | — |
+| MCP Server | — |
+| Auth Clarity | — |
+| Idempotency | — |
+| Error Semantics | — |
+| OpenAPI Examples | — |
+| Rate Limit Signal | — |
+| Event Surface Described | — |
+| Agent Skills | — |
+| Well Known Catalog | — |
+| Consent Identity | — |
+| Agent Card | — |
+| Dry Run Mode | — |
+| Delegated Identity | — |
+| Protected Resource Metadata | — |
+| Dynamic Client Registration | — |
+| Agentic Commerce | — |
+
+**Regulatory alignment 4.9** — Energy & Utilities
+
+The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/element-zero/](https://apis.io/providers/element-zero/).
+
+## How this profile is made
+
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
+
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for Element Zero: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
+
+## Open an issue
+
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/element-zero/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
